@@ -15,7 +15,12 @@
     "supermemo"
   ],
   "dependencies" : {
-    "anki-apkg-export" : "3.0.1"
+    "anki-apkg-export" : "3.0.1",
+    "memparse" : "0.1.3"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/matthieu-rolland/memanki.git"
   },
   "author": "mrolland",
   "license": "MIT"
