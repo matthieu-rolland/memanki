@@ -8,10 +8,12 @@ Anki is a flashcard program which makes remembering things easy, using the SRS p
 For those who like to know how things work, the SRS algorithm used by anki was originally written empirically by Piotr Woźniak and can be found [HERE](https://www.supermemo.com/english/ol/sm2.htm).
 You can visit the [ANKI website](https://apps.ankiweb.net) for more informations.
 
-You'll find more informations about the Spaced Repetition System principle [HERE](https://www.supermemo.com/articles/theory.htm)
+If you want to know more about the Spaced Repetition System principle click [HERE](https://www.supermemo.com/articles/theory.htm)
 
 ## Why convert memrise lessons to Anki?
 While memrise is awesome for learning new words/things, I always thought Anki was much better at long term information retention.
+I like to use it both, Memrise for learning, and anki for not forgetting.
+Memrise lessons can be found [HERE](https://www.memrise.com/courses/english/).
 
 ## Usage
 

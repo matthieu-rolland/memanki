@@ -1,6 +1,6 @@
 {
   "name": "memanki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build anki decks from the id of a memrise lesson.",
   "main": "index.js",
   "scripts": {
