@@ -1,4 +1,6 @@
-[![NPM](https://nodei.co/npm/memanki.png)](https://nodei.co/npm/memanki/)
+[![NPM](https://nodei.co/npm/memanki.png)](https://nodei.co/npm/memanki/) 
+ ![npm](https://img.shields.io/npm/dt/memanki.svg)
+
 # MEMANKI
 
 Builds anki decks from a memrise lesson ID
