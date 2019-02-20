@@ -1,3 +1,5 @@
+Module = { TOTAL_MEMORY: 536870912 };
+
 const fs = require('fs');
 const ankiExport = require('anki-apkg-export').default;
 
